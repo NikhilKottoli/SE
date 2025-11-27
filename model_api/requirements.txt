@@ -2,3 +2,7 @@ fastapi
 uvicorn
 pydantic
 prometheus-fastapi-instrumentator
+torch>=2.0
+transformers>=4.30
+scikit-learn
+numpy
